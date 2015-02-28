@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<string.h>
 #include<time.h>
-
+//nunj//
 enum{
 	MASTER_SEND = 0,
 	SLAVE_SEND = 1,
